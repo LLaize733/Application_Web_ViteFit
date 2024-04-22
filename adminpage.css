@@ -1,0 +1,167 @@
+/* Header */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 236, 252);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.haut {
+    background-color: #330066;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+.gauche img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.gauche, .droite {
+    flex: 1;
+    text-align: center;
+}
+
+.gauche {
+    margin-right: 10px;
+}
+
+.droite {
+    margin-left: 10px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav ul li a:hover {
+    color: #f3b5ff; /* Couleur de survol à ajuster selon votre choix */
+}
+
+p, a {
+    text-decoration: none;
+    color: #d912c8;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+a:hover {
+    color: #f3b5ff; /* Couleur de survol à ajuster selon votre choix */
+}
+
+h1, h2, h2, p, a, ul, li {
+    margin: 10;
+    padding: 10;
+    text-decoration: none; /* Respect des normes d'accessibilité visuelle */
+}
+
+section {
+    min-height: 700px;
+    margin-bottom: 10px; /* Ajustez la valeur selon votre préférence */
+}
+
+/* Fichier adminpage */
+
+#titre_inscription {
+    text-align: center;
+    margin-top: 20px;
+    color: #330066;
+}
+
+.form-signin {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 40px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-bottom-width: 100px;
+    padding-bottom: 00px;
+    margin-bottom: 250px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group-addon {
+    background-color: #330066;
+    color: #ffffff;
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+select {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.btn {
+    background-color: #330066;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+}
+
+/* Ajoutez d'autres styles selon vos besoins */
+
+/* Footer */
+
+
+
+footer {
+    margin-top: 20px;
+    position: static;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #330066;
+    padding: 10px; /* Ajustez la valeur selon vos besoins */
+    border-radius: 10px;
+    text-align: center;
+    color: #ffffff; /* Couleur du texte du footer */
+}
+
+footer a, p {
+    color: #ffffff; /* Couleur du texte des liens dans le footer */
+}
+
+footer a:hover {
+    color: #f3b5ff; /* Couleur de survol des liens dans le footer à ajuster selon votre choix */
+}
