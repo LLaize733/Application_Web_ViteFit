@@ -56,7 +56,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 p, a {
@@ -67,18 +67,18 @@ p, a {
 }
 
 a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff;
 }
 
 h1,h2,h2,p,a,ul,li{
     margin: 10;
     padding: 10;
-    text-decoration: none;  /* Respect des normes d'accessibilitÃ© visuelle  */
+    text-decoration: none;  
     }
 
 section{
     min-height: 700px;
-    margin-bottom: 10px; /* Ajustez la valeur selon votre prÃ©fÃ©rence */
+    margin-bottom: 10px; 
 }
 
 /* Fichier connexion */
@@ -122,8 +122,7 @@ section{
 }
 
 .box-button:hover {
-    background-color: #f3b5ff; /* Couleur de survol à ajuster selon votre choix */
-}
+    background-color: #f3b5ff; 
 
 .errorMessage {
     color: #ff0000;
@@ -133,7 +132,7 @@ section{
 /* Footer */
 
 footer {
-    margin-top: 10px; /* Ajoutez une marge supÃ©rieure Ã  votre footer */
+    margin-top: 10px; 
     position: fixed;
     bottom: 0;
     left: 0;
@@ -142,5 +141,5 @@ footer {
     padding: 0px;
     border-radius: 10px;
     text-align: center;
-    color: #ffffff; /* Couleur du texte du footer */
+    color: #ffffff;
 }
