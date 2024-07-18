@@ -56,7 +56,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f3b5ff; /* Couleur de survol à ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 p, a {
@@ -67,18 +67,17 @@ p, a {
 }
 
 a:hover {
-    color: #f3b5ff; /* Couleur de survol à ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 h1, h2, h2, p, a, ul, li {
     margin: 10;
     padding: 10;
-    text-decoration: none; /* Respect des normes d'accessibilité visuelle */
-}
+    text-decoration: none; 
 
 section {
     min-height: 700px;
-    margin-bottom: 10px; /* Ajustez la valeur selon votre préférence */
+    margin-bottom: 10px; 
 }
 
 /* Fichier adminpage */
@@ -136,14 +135,8 @@ select {
 }
 
 .btn:hover {
-    background-color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    background-color: #f3b5ff; 
 }
-
-/* Ajoutez d'autres styles selon vos besoins */
-
-/* Footer */
-
-
 
 footer {
     margin-top: 20px;
@@ -152,7 +145,7 @@ footer {
     left: 0;
     width: 100%;
     background-color: #330066;
-    padding: 10px; /* Ajustez la valeur selon vos besoins */
+    padding: 10px; 
     border-radius: 10px;
     text-align: center;
     color: #ffffff; /* Couleur du texte du footer */
@@ -163,5 +156,5 @@ footer a, p {
 }
 
 footer a:hover {
-    color: #f3b5ff; /* Couleur de survol des liens dans le footer à ajuster selon votre choix */
+    color: #f3b5ff; 
 }
