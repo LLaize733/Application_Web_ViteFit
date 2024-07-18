@@ -217,7 +217,7 @@ footer {
 }
 
 footer a, p {
-    color: #ffffff; /* Couleur du texte des liens dans le footer */
+    color: #ffffff;
 }
 
 footer a:hover {
