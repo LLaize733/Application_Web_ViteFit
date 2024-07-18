@@ -54,7 +54,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 p, a {
@@ -65,23 +65,23 @@ p, a {
 }
 
 a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 h1,h2,h2,p,a,ul,li{
     margin: 10;
     padding: 10;
-    text-decoration: none;  /* Respect des normes d'accessibilitÃ© visuelle  */
+    text-decoration: none;  /* Respect normes d'accessibilite visuelle  */
     }
 
 section{
     min-height: 700px;
-    margin-bottom: 20px; /* Ajustez la valeur selon votre prÃ©fÃ©rence */
+    margin-bottom: 20px; 
 }
 
 
 /* Fichier inscription */
-/* Ajoutez ces styles Ã  votre fichier CSS */
+
 
 #titre_inscription {
     text-align: center;
@@ -136,15 +136,14 @@ select {
 }
 
 .btn:hover {
-    background-color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
-}
+    background-color: #f3b5ff; 
 
-/* Ajoutez d'autres styles selon vos besoins */
+
 
 /* Footer */
 
 footer {
-    margin-top: 20px; /* Ajoutez une marge supÃ©rieure Ã  votre footer */
+    margin-top: 20px; 
     position: fixed;
     bottom: 0;
     left: 0;
@@ -153,5 +152,5 @@ footer {
     padding: 0px;
     border-radius: 10px;
     text-align: center;
-    color: #ffffff; /* Couleur du texte du footer */
+    color: #ffffff; 
 }
