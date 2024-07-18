@@ -55,7 +55,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff;
 }
 
 p, a {
@@ -66,13 +66,13 @@ p, a {
 }
 
 a:hover {
-    color: #f3b5ff; /* Couleur de survol Ã  ajuster selon votre choix */
+    color: #f3b5ff; 
 }
 
 h1,h2,p,a,ul,li{
     margin: 10;
     padding: 10;
-    text-decoration: none;  /* Respect des normes d'accessibilitÃ© visuelle  */
+    text-decoration: none;  
     }
 
 section{
@@ -210,10 +210,10 @@ footer {
     left: 0;
     width: 100%;
     background-color: #330066;
-    padding: 10px; /* Ajustez la valeur selon vos besoins */
+    padding: 10px; 
     border-radius: 10px;
     text-align: center;
-    color: #ffffff; /* Couleur du texte du footer */
+    color: #ffffff; 
 }
 
 footer a, p {
@@ -221,5 +221,5 @@ footer a, p {
 }
 
 footer a:hover {
-    color: #f3b5ff; /* Couleur de survol des liens dans le footer à ajuster selon votre choix */
+    color: #f3b5ff; 
 }
