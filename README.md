@@ -2,7 +2,7 @@
 Contexte du projet : 
 
 
-Le but de ce projet était de de construire une application Web de réservation en ligne pour un club de fitness, avec des spécifications imposées
+Le but de ce projet était de de construire une application Web de réservation en ligne pour un club de fitness, avec des spécifications imposées.
 
 
 Notre bînome a fait le choix de se concentrer sur la santé et mettre en avant ce point sur notre site VITEFIT.
